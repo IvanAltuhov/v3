@@ -1,0 +1,6 @@
+/shelf/
+/workspace.xml
+tmp.log
+ *.iml
+ .idea
+/out
